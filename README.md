@@ -27,9 +27,9 @@ This project automates Quipu website tasks using Java and Selenium WebDriver. Th
 
 ## Project Structure
 
-src/test/java - Contains test classes.
-pom.xml - defines maven dependencies.
-testng.xml - Configuration file for TestNG.
+1. src/test/java - Contains test classes.
+2. pom.xml - defines maven dependencies.
+3. testng.xml - Configuration file for TestNG.
 
 ## Testing
 The tests can be run either using the following command or using TestNG's testing.xml configuration file:
