@@ -1,6 +1,6 @@
 # Quipu Automation Project
 
-This project automates Quipu website tasks using Java and Selenium WebDriver. The tests are organized with TestNG and can be run using a `testing.xml` file.
+This project automates Quipu website tasks using Java and Selenium WebDriver. The tests are organized with TestNG and can be run using a `testng.xml` file.
 
 ## Table of Contents
 - [Installation](#installation)
